@@ -1,0 +1,7 @@
+namespace СlassicCheckers.Models
+{
+    public enum CellValueEnum
+    {
+        Empty, WhiteChecker, BlackChecker
+    }
+}
